@@ -1,5 +1,4 @@
 import React from "react";
-import "./Signup.css";
 import { Link } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import { handleError } from "../utils";
